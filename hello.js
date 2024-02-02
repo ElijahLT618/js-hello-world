@@ -4,8 +4,9 @@ Enter your code on line 7 to print 'Hello, World!'
 to the console (the panel on the right)
 */
 
-console.log("Hello");
-
+console.log("Hello World", "Good morning starshine the earth says hello");
+console.log("No Maidens Scourtel")
+console.log(1 + 4)
 /*  
 Next, PLAY! 
 Modify your code on line 7 to try to accomplish the tasks listed below:
